@@ -1,0 +1,15 @@
+{
+  "properties": [
+    {
+      "name": "user.appId",
+      "type": "java.lang.String",
+      "description": "用户中心分配的appId",
+      "defaultValue": "123456"
+    },
+    {
+      "name": "user.appSecret",
+      "type": "java.lang.String",
+      "description": "用户中心分配的appSecret."
+    }
+  ]
+}
